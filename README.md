@@ -1,12 +1,12 @@
-# ¡Hola! Soy Valentín 👋[cite: 2]
+# ¡Hola! Soy Valentín 
 
-Estudiante de **Ciencia de Datos e Inteligencia Artificial**[cite: 2]. Apasionado por transformar datos complejos en soluciones prácticas, análisis visuales y modelos predictivos.
+Estudiante de **Ciencia de Datos e Inteligencia Artificial**. Apasionado por transformar datos complejos en soluciones prácticas, análisis visuales y modelos predictivos.
 
 ---
 
 ### 🚀 Sobre mí
 
-- 🎓 Cursando el 2° año de **Ciencia de Datos e IA**[cite: 2].
+- 🎓 Cursando el 2° año de **Ciencia de Datos e IA**.
 - 🔭 Actualmente enfocado en: Análisis Exploratorio de Datos (EDA), Modelado con SQL y Machine Learning.
 - 🎯 En búsqueda de mi primera oportunidad laboral como **Data Analyst** o **Data Engineer** Trainee / Junior.
 - ⚡ Interés en: Automatización de datos, dashboards interactivos y resolución de problemas de negocio.
@@ -33,5 +33,5 @@ Estudiante de **Ciencia de Datos e Inteligencia Artificial**[cite: 2]. Apasionad
 
 ### 📫 Contacto
 
-- **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/TU-USUARIO)
-- **Email:** valenavila9@gmail.com[cite: 2]
+- **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/valentin-avila-025800247/)
+- **Email:** valenavila9@gmail.com
