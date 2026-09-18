@@ -33,5 +33,5 @@ Estudiante de **Ciencia de Datos e Inteligencia Artificial**. Apasionado por tra
 
 ### 📫 Contacto
 
-- **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/valentin-avila-025800247/)
+- **LinkedIn:** (https://www.linkedin.com/in/valentin-avila-025800247/)
 - **Email:** valenavila9@gmail.com
